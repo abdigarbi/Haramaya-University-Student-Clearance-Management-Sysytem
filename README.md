@@ -9,11 +9,6 @@ with HTML,JS, CSS with (uikit css frame work), PHP and
 MYSQLi database using XAMMP server.
 
 **********************************************************
-
-This Project is Created with Haramaya University graduate
-students for partial requirement of BSc in Information 
-Technology (2023 GC or 2015 E.C).
-
 **********************************************************
 
 To Use this project  first create database called "huscms" 
